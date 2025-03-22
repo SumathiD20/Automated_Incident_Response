@@ -1,0 +1,35 @@
+2025-03-22 21:26:46,927 ERROR  Invalid OpenAI API key! Please set your OpenAI API key in .env or as an environment variable.
+2025-03-22 21:26:46,931 INFO  You can get your key from https://platform.openai.com/account/api-keys
+2025-03-22 21:33:21,743 ERROR  Invalid OpenAI API key! Please set your OpenAI API key in .env or as an environment variable.
+2025-03-22 21:33:21,752 INFO  You can get your key from https://platform.openai.com/account/api-keys
+2025-03-22 21:36:23,944 INFO  HTTP Request: GET https://api.openai.com/v1/models "HTTP/1.1 200 OK"
+2025-03-22 21:36:24,883 INFO  HTTP Request: GET https://api.openai.com/v1/models "HTTP/1.1 200 OK"
+2025-03-22 21:36:24,889 WARNING  You don't have access to gpt-4-turbo. Setting smart_llm to gpt-3.5-turbo.
+2025-03-22 21:36:25,323 INFO  NEWS:  Welcome to AutoGPT!
+2025-03-22 21:36:25,324 INFO  NEWS:  
+2025-03-22 21:36:25,325 INFO  NEWS:  
+2025-03-22 21:36:25,341 INFO  Smart LLM:  gpt-3.5-turbo
+2025-03-22 21:36:25,344 INFO  Fast LLM:  gpt-3.5-turbo
+2025-03-22 21:36:25,348 INFO  Browser:  chrome
+2025-03-22 21:36:25,367 INFO  Code Execution:  ENABLED
+2025-03-22 21:37:20,647 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:22,058 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:23,983 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:25,159 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:26,376 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:31,529 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:33,833 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:34,816 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:36,981 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:41,203 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:42,380 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:44,621 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:52,872 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:53,799 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:37:55,566 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:38:11,828 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:38:12,804 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:38:14,610 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:38:46,884 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:38:47,937 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-03-22 21:38:49,982 INFO  HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"

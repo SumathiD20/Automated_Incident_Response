@@ -1,0 +1,2 @@
+2025-03-22 21:26:46,927 ERROR config.py:329  Invalid OpenAI API key! Please set your OpenAI API key in .env or as an environment variable.
+2025-03-22 21:33:21,743 ERROR config.py:329  Invalid OpenAI API key! Please set your OpenAI API key in .env or as an environment variable.
