@@ -21,3 +21,4 @@ rad.json
 #Test results file
 TestResults.xml
 auto-gpt/.env
+__pycache__/
