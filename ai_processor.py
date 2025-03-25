@@ -77,4 +77,5 @@ class AIProcessor:
         )
         
         llm = OpenAI(temperature=0.3)
-        return llm(prompt.format(context=context, error_message=error_message))
+        return llm.invoke(prompt.format(context=context, error_message=error_message))
+    #return llm(prompt.format(context=context, error_message=error_message))
