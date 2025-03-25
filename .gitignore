@@ -22,3 +22,4 @@ rad.json
 TestResults.xml
 auto-gpt/.env
 __pycache__/
+.env
